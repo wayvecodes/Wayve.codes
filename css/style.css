@@ -6349,3 +6349,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-text-decoration-line: line-through;
   text-decoration-line: line-through;
 }
+
+.subscribe_btn{
+  cursor: pointer;
+}
