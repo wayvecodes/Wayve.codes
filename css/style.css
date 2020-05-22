@@ -6334,3 +6334,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.pricing{
+  font-size: 30px;
+  font-weight: 600;
+  border-top: 1px solid #eee;
+  margin-bottom: 5px;
+  padding-top: 24px;
+}
+
+.strike {
+  -webkit-text-decoration-color: red;
+  text-decoration-color: red;
+  -webkit-text-decoration-line: line-through;
+  text-decoration-line: line-through;
+}
