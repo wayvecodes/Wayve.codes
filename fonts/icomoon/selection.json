@@ -11554,7 +11554,7 @@
         "isMulticolor": false,
         "isMulticolor2": false,
         "tags": [
-          "hacker-news",
+          "hacker- ",
           "y-combinator-square",
           "yc-square"
         ],
@@ -11563,7 +11563,7 @@
       },
       "attrs": [],
       "properties": {
-        "name": "hacker-news, y-combinator-square, yc-square",
+        "name": "hacker- , y-combinator-square, yc-square",
         "id": 425,
         "order": 1281,
         "prevSize": 28,
@@ -12127,14 +12127,14 @@
         "isMulticolor": false,
         "isMulticolor2": false,
         "tags": [
-          "newspaper-o"
+          " paper-o"
         ],
         "defaultCode": 61930,
         "grid": 14
       },
       "attrs": [],
       "properties": {
-        "name": "newspaper-o",
+        "name": " paper-o",
         "id": 446,
         "order": 1302,
         "prevSize": 28,
